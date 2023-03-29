@@ -34,4 +34,9 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+}
+sbdannajn
+dakjdadada
+asdjadnansd
+adjsnnasnd
+
